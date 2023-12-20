@@ -15,11 +15,11 @@ Eatable es una aplicación web interactiva desarrollada con React que se integra
     <img src="https://i.imgur.com/PBnfNH2.png" alt="Create/Edit Eatable Image" width="350">
   </div>
  
-- **Visualización de Platillos**: La aplicación proporciona una vista detallada de cada platillo, incluyendo sus ingredientes y las instrucciones de preparación. Con un solo vistazo, puedes obtener toda la información esencial.
+- **Visualización de Platillos**: La aplicación proporciona una vista detallada de cada platillo, incluyendo su nombre, categoria y hasta su foto. Con un solo vistazo, puedes obtener toda la información esencial.
 
   <img src="https://i.imgur.com/Wzoj11I.png" alt="Home Eatable Image" width="500">
 
-- **Gestión de Platillos**: Simplifica tu vida culinaria gestionando tus platillos de manera eficiente. Elimina aquellos que ya no necesitas y mantén tu lista de recetas organizada.
+- **Gestión de Platillos**: Simplifica tu vida culinaria gestionando tus platillos de manera eficiente. Elimina aquellos que ya no necesitas y mantén tu lista de platillos organizada.
 
   <img src="https://i.imgur.com/lGptYIZ.png" alt="Home Eatable Image" width="500">
 
