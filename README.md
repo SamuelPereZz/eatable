@@ -4,23 +4,26 @@ Eatable es una aplicación web interactiva desarrollada con React que se integra
 
 ## Vista previa de la aplicación
 
-  ![Home Eatable Image](https://i.imgur.com/6PEyDnm.png)
-
-## Características Principales
+  <img src="https://i.imgur.com/6PEyDnm.png" alt="Home Eatable Image" width="500">
+  
+# Características Principales
 
 - **Creación y Modificación de Platillos**: Diseñada para la máxima comodidad, Eatable permite crear nuevos platillos y modificar los existentes de manera fácil y rápida.
 
-  ![Create/Edit Eatable Image](https://i.imgur.com/8qSmhJm.png) ![Create/Edit Eatable Image](https://i.imgur.com/PBnfNH2.png)
+  <div style="display: flex; justify-content: space-between;">
+    <img src="https://i.imgur.com/8qSmhJm.png" alt="Create/Edit Eatable Image" width="450">
+    <img src="https://i.imgur.com/PBnfNH2.png" alt="Create/Edit Eatable Image" width="450">
+  </div>
  
 - **Visualización de Platillos**: La aplicación proporciona una vista detallada de cada platillo, incluyendo sus ingredientes y las instrucciones de preparación. Con un solo vistazo, puedes obtener toda la información esencial.
 
-  ![Home Eatable Image](https://i.imgur.com/Wzoj11I.png)
+  <img src="https://i.imgur.com/Wzoj11I.png" alt="Home Eatable Image" width="500">
 
 - **Gestión de Platillos**: Simplifica tu vida culinaria gestionando tus platillos de manera eficiente. Elimina aquellos que ya no necesitas y mantén tu lista de recetas organizada.
 
-  ![Home Eatable Image](https://i.imgur.com/MlPRa0y.png)
+  <img src="https://i.imgur.com/lGptYIZ.png" alt="Home Eatable Image" width="500">
 
-## Tecnologías Utilizadas
+# Tecnologías Utilizadas
 
 Este proyecto se apoya en varias librerías para mejorar la experiencia del usuario y optimizar el desarrollo:
 
@@ -30,7 +33,7 @@ Este proyecto se apoya en varias librerías para mejorar la experiencia del usua
 - **Emotion**: Utilizado para el styling de los componentes, proporcionando un diseño atractivo y consistente.
 - **React Router**: Facilita la navegación fluida dentro de la aplicación, mejorando la experiencia del usuario.
 
-## Comienza tu experiencia
+# Comienza tu experiencia
 
 Para instalar y ejecutar Eatable en tu máquina local, sigue estos sencillos pasos::
 
