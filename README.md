@@ -4,7 +4,7 @@ Eatable es una aplicación web interactiva desarrollada con React que se integra
 
 ## Vista previa de la aplicación
 
-  <img src="https://i.imgur.com/6PEyDnm.png" alt="Home Eatable Image" width="500">
+  <img src="https://i.imgur.com/6PEyDnm.png" alt="Home Eatable Image">
   
 # Características Principales
 
